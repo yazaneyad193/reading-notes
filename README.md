@@ -20,4 +20,4 @@
 This site was built using [GitHub Pages](https://github.com/yazaneyad193/).
 
 
-This site was built using [Class3-0-102](https://github.com/yazaneyad193/reading-notes/class-3-102/).
+This site was built using [Class3-0-102](https://github.com/yazaneyad193/reading-notes/class-3-102).
